@@ -7,7 +7,7 @@ Date: 17/12/2021
 
 **Work in progress**
 
-TimmyHQ clone featires:
+TimmyHQ clone features:
 
 * Z80A (3.5MHz) CPU,
 * logic with discrete CMOS chips,
