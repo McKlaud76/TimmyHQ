@@ -28,4 +28,4 @@ TimmyHQ clone features:
 
 ### License
 
-GNU General Public License v3.0 T&C applies to this repository contnet.
+GNU General Public License v3.0 T&C applies to this repository content.
