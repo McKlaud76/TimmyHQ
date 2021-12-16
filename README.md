@@ -5,11 +5,11 @@
 
 Date: 17/12/2021
 
-**Work in progress
+**Work in progress**
 
 ### Warranty
 
-*No Warranty of the Project. The Issuer makes no express or implied warranty of any kind whatsoever with respect to the Project.
+*No Warranty of the Project. The Issuer makes no express or implied warranty of any kind whatsoever with respect to the Project.*
 
 ### License
 
