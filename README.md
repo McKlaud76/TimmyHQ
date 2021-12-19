@@ -5,6 +5,8 @@
 
 Date: 17/12/2021
 
+![TimmyHQ](/Docs/THQ_01.png)
+
 **Work in progress**
 
 TimmyHQ clone features:
