@@ -1,5 +1,5 @@
 # TimmyHQ
-### Timmy a'ka Harlequin 48K by Superfo
+### Timmy a'ka Harlequin 48K by Superfo - Work in progress
 
 © 2021 KWF
 
@@ -7,7 +7,6 @@ Date: 17/12/2021
 
 ![TimmyHQ](/Docs/THQ_01.png)
 
-**Work in progress**
 
 TimmyHQ clone features:
 
