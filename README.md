@@ -3,12 +3,11 @@
 
 © 2021 KWF
 
-Date: 17/12/2021
+Date: 21/12/2021
 
 ![TimmyHQ](/Docs/THQ_01.png)
 
-
-TimmyHQ clone features:
+#### TimmyHQ clone features:
 
 * Z80A (3.5MHz) CPU,
 * logic with discrete CMOS chips,
