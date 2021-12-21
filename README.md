@@ -24,6 +24,8 @@ TimmyHQ clone features:
 * PCB in dimensions and size of the Timex Computer 2048 board,
 * connector for MH-M18 Bluetooth (BT) audio module.
 
+![TimmyHQ](/Docs/THQ_012.jpg)
+
 ### Warranty
 
 *No Warranty of the Project. The Issuer makes no express or implied warranty of any kind whatsoever with respect to the Project.*
