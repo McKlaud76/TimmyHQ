@@ -3,7 +3,7 @@
 
 © 2021 KWF
 
-Date: 22/12/2021
+Date: 24/12/2021
 
 ![TimmyHQ](/Docs/THQ_01.png)
 
@@ -22,10 +22,10 @@ Date: 22/12/2021
 * PCB in dimensions and size of the Timex Computer 2048 board,
 * connector for MH-M18 Bluetooth (BT) audio module.
 
-Schematic digaram modifications and checks are on-going:
+Schematic digaram modifications and checks completed:
 ![TimmyHQ](/Docs/THQ_02.jpg)
 
-Routing PCB:
+PCB routing in progress:
 ![TimmyHQ](/Docs/PCB_v0.1_routing.png)
 
 ### Warranty
