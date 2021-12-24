@@ -25,6 +25,9 @@ Date: 22/12/2021
 Schematic digaram modifications and checks are on-going:
 ![TimmyHQ](/Docs/THQ_02.jpg)
 
+Routing PCB:
+![TimmyHQ](/Docs/PCB_v0.1_routing.png)
+
 ### Warranty
 
 *No Warranty of the Project. The Issuer makes no express or implied warranty of any kind whatsoever with respect to the Project.*
