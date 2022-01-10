@@ -28,7 +28,7 @@ Schematic digaram modifications and checks completed:
 PCB autorouting:
 ![TimmyHQ](/Docs/PCB_v0.1_routing.png)
 
-PCB connrections in progrees:
+PCB corrections in progress:
 ![TimmyHQ](/Docs/THQ_03.png)
 
 ### Warranty
