@@ -3,7 +3,7 @@
 
 © 2021 KWF
 
-Date: 24/12/2021
+Date: 10/01/2022
 
 ![TimmyHQ](/Docs/THQ_01.png)
 
@@ -25,8 +25,11 @@ Date: 24/12/2021
 Schematic digaram modifications and checks completed:
 ![TimmyHQ](/Docs/THQ_02.jpg)
 
-PCB routing in progress:
+PCB autorouting:
 ![TimmyHQ](/Docs/PCB_v0.1_routing.png)
+
+PCB connrections in progrees:
+![TimmyHQ](/Docs/THQ_03.png)
 
 ### Warranty
 
