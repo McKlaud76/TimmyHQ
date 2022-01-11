@@ -3,7 +3,8 @@
 
 © 2021 KWF
 
-Date: 10/01/2022
+Date: 11/01/2022
+Revision: 0.12 WiP
 
 ![TimmyHQ](/Docs/THQ_01.png)
 
@@ -19,7 +20,7 @@ Date: 10/01/2022
 * RGB and composite video outputs,
 * compatible with TC2048 keyboard,
 * RESET button,
-* PCB in dimensions and size of the Timex Computer 2048 board,
+* PCB fits within the Timex Computer 2048 case,
 * connector for MH-M18 Bluetooth (BT) audio module.
 
 Schematic digaram modifications and checks completed:
