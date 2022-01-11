@@ -6,7 +6,7 @@
 Date: 11/01/2022
 Revision: 0.12 WiP
 
-![TimmyHQ](/Docs/THQ_01.png)
+![TimmyHQ](/Docs/THQ_06.png)
 
 #### TimmyHQ clone features:
 
@@ -32,7 +32,7 @@ PCB autorouting:
 ![TimmyHQ](/Docs/PCB_v0.1_routing.png)
 
 PCB corrections in progress:
-![TimmyHQ](/Docs/THQ_03.png)
+![TimmyHQ](/Docs/THQ_07.png)
 
 ### Warranty
 
