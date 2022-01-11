@@ -29,7 +29,7 @@ Schematic digaram modifications and checks completed:
 ![TimmyHQ](/Docs/THQ_02.jpg)
 
 PCB autorouting:
-![TimmyHQ](/Docs/PCB_v0.1_routing.png)
+![TimmyHQ](/Docs/PCB_v0.12_routing.png)
 
 PCB corrections in progress:
 ![TimmyHQ](/Docs/THQ_07.png)
