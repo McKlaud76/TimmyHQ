@@ -16,12 +16,14 @@ Revision: 0.12 WiP
 * 32KB upper RAM,
 * 4 x 16KB ROM (selectable),
 * AY-3-8913 sound chip controlled with ZX128K ports,
+* all Timex ports (0xF4, 0xF5 &g 0xFF) decoder included,
+* 0xFF port write/read implemented,
 * Kempston joystick interface,
 * RGB and composite video outputs,
 * compatible with TC2048 keyboard,
 * RESET button,
-* PCB fits within the Timex Computer 2048 case,
-* connector for MH-M18 Bluetooth (BT) audio module.
+* connector for MH-M18 Bluetooth (BT) audio module,
+* PCB fits within the Timex Computer 2048 case.
 
 Schematic digaram modifications and checks completed:
 ![TimmyHQ](/Docs/THQ_02.jpg)
