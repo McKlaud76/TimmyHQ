@@ -6,7 +6,7 @@
 Date: 15/01/2022
 Revision: 0.12
 
-![TimmyHQ](/Docs/THQ_06.png)
+![TimmyHQ](/Docs/THQ_PCB_01.png)
 
 #### TimmyHQ clone features:
 
