@@ -1,10 +1,10 @@
 # TimmyHQ
-### Timmy a'ka Harlequin 48K by Superfo - Work in progress
+### Timmy a'ka Harlequin 48K by Superfo
 
 © 2021 KWF
 
-Date: 11/01/2022
-Revision: 0.12 WiP
+Date: 15/01/2022
+Revision: 0.12
 
 ![TimmyHQ](/Docs/THQ_06.png)
 
@@ -31,8 +31,8 @@ Schematic digaram modifications and checks completed:
 PCB autorouting:
 ![TimmyHQ](/Docs/PCB_v0.12_routing.png)
 
-PCB corrections in progress:
-![TimmyHQ](/Docs/THQ_07.png)
+PCB v0.12 corrected and sent for manufacturing:
+![TimmyHQ](/Docs/THQ_08.png)
 
 ### Warranty
 
