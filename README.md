@@ -3,8 +3,8 @@
 
 © 2021 KWF
 
-Date: 15/01/2022
-Revision: 0.12
+Date: 14/02/2022
+Revision: 0.13 (WiP)
 
 ![TimmyHQ](/Docs/THQ_PCB_01.png)
 
