@@ -34,6 +34,9 @@ PCB autorouting:
 PCB v0.12 corrected and sent for manufacturing:
 ![TimmyHQ](/Docs/THQ_08.png)
 
+Building prototype with PCB v0.12:
+![TimmyHQ](/Docs/THQ_09.png)
+
 ### Warranty
 
 *No Warranty of the Project. The Issuer makes no express or implied warranty of any kind whatsoever with respect to the Project.*
