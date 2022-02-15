@@ -35,7 +35,7 @@ PCB v0.12 corrected and sent for manufacturing:
 ![TimmyHQ](/Docs/THQ_08.png)
 
 Building prototype with PCB v0.12:
-![TimmyHQ](/Docs/THQ_09.png)
+![TimmyHQ](/Docs/THQ_09.jpg)
 
 ### Warranty
 
