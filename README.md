@@ -16,7 +16,7 @@ Revision: 0.13 (WiP)
 * 32KB upper RAM,
 * 4 x 16KB ROM (selectable),
 * AY-3-8913 sound chip controlled with ZX128K ports,
-* all Timex ports (0xF4, 0xF5 &g 0xFF) decoder included,
+* all Timex ports (0xF4, 0xF5, 0xF6 & 0xFF) decoder included,
 * 0xFF port write/read implemented,
 * Kempston joystick interface,
 * RGB and composite video outputs,
